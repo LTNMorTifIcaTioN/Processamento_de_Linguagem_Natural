@@ -6,7 +6,7 @@ import sys
 time.clock = time.perf_counter
 bot = ChatBot('Bot',
                storage_adapter='chatterbot.storage.SQLStorageAdapter',
-               database_uri='sqlite:///database.sqlite3',
+               database_url='sqlite:///database.sqlite3',
                logic_adapters=[
                    'chatterbot.logic.BestMatch',
                    'chatterbot.logic.MathematicalEvaluation'
