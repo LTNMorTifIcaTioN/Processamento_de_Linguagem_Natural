@@ -1,0 +1,21 @@
+produto,evento,regiao,modelo,idade
+chocolate,natal,sao paulo,ao leite,10
+panetone,natal,rio de janeiro,trufado,34
+chocolate,natal,sao paulo,ao leite,70
+panetone,natal,salvador,trufado,22
+chocolate,natal,minas gerais,aerado,15
+panetone,natal,rio de janeiro,trufado,56
+biscoito,natal,bahia,recheado,15
+chocolate,dia das mães,sao paulo,ao leite,25
+panetone,natal,rio de janeiro,trufado,44
+biscoito,carnaval,bahia,recheado,25
+chocolate,natal,sao paulo,ao leite,25
+panetone,natal,rio de janeiro,amargo,62
+biscoito,fim de ano,bahia,recheado,10
+chocolate,natal,sao paulo,amargo,48
+panetone,natal,rio de janeiro,trufado,38
+biscoito,carnaval,bahia,recheado,17
+chocolate,fim de ano,sao paulo,branco,29
+panetone,natal,rio de janeiro,trufado,37
+biscoito,carnaval,bahia,recheado,10
+chocolate,natal,sao paulo,amargo,18
